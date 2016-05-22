@@ -1,0 +1,2 @@
+1. docker build -t debian_lime:latest .
+2. docker run -v modules:/opt/limemodules/ debian_lime
